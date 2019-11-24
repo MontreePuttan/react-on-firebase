@@ -23,12 +23,12 @@ export default function Content() {
           </h1>
           <ol className="breadcrumb">
             <li>
-              <a href="#">
+              <a href="fake_url">
                 <i className="fa fa-dashboard" /> Home
               </a>
             </li>
             <li>
-              <a href="#">Tables</a>
+              <a href="fake_url">Tables</a>
             </li>
             <li className="active">Data tables</li>
           </ol>
